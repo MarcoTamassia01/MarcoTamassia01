@@ -26,7 +26,7 @@
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide_border=true)](https://github.com/MarcoTamassia01)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcoTamassia01&show_icons=true&hide_title=true&hide_border=true)](https://github.com/MarcoTamassia01)
 
 ## Vamos Conectar!
 
