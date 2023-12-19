@@ -20,7 +20,8 @@
 👨‍💻 Sempre trabalhando em alguns projetos interessantes. Dê uma olhada nos meus repositórios!
 
 - [Projeto Legal 1](https://github.com/MarcoTamassia01/Exercicios_deJava_resolvidos): Inventario de gambiarras enquanto aprendo JAVA🤪
-- [Projeto Incrível 2](link-para-projeto2): Esta a caminho
+- [Projeto Incrível 2](https://github.com/MarcoTamassia01/Jogo_de_Xadrez_com_Java): Joguinho de Xadrez pra dar Xeque-Mate no seu tédio ![image](https://github.com/MarcoTamassia01/MarcoTamassia01/assets/128434055/89b35da3-57a0-4e94-ac35-27190e877b9c)
+
 
 🤝 Aberto(a) a colaborações e sempre pronto(a) para aprender com a comunidade.
 
