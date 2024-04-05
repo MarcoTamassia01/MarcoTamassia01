@@ -4,7 +4,7 @@
 
 🚀 Sou um estudante jovem e entusiasta de Java, apaixonado por programação e desenvolvimento de software.
 
-💡 Atualmente, estou focado em aprimorar minhas habilidades em Java e explorar o vasto mundo do desenvolvimento de software.
+💡 Atualmente, estou focado em aprimorar minhas habilidades em Java e conhecimentos em Front-end
 
 🌱 Estou sempre em busca de aprender algo novo e enfrentar desafios emocionantes no mundo da programação.
 
@@ -25,7 +25,7 @@
 
 👨‍💻 Sempre trabalhando em alguns projetos interessantes. Dê uma olhada nos meus repositórios!
 
-- [Projeto Legal 1](https://github.com/MarcoTamassia01/Exercicios_deJava_resolvidos): Inventario de gambiarras com conhecimentos enquanto aprendo JAVA
+- [Projeto Legal 1](https://github.com/MarcoTamassia01/workshop-javafx-jdbc): PROGRAMA utilizando JAVAFX E JDBC
 - [Projeto Incrível 2](https://github.com/MarcoTamassia01/SpringBoot3-JPA): Projeto web services com Spring Boot e JPA / Hibernate![image](https://github.com/MarcoTamassia01/MarcoTamassia01/assets/128434055/89b35da3-57a0-4e94-ac35-27190e877b9c)
 
 
