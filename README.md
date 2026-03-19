@@ -1,93 +1,75 @@
-<!-- Nome com animação -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=1500&pause=1000&width=800&color=ED8B00&lines=Marco+Tamassia+-+Desenvolvedor+Backend+Java" alt="Typing SVG" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Marco%20Antonio%20Sallas%20Tamassia&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
+> **Developer Jr | Java Ecosystem | Core Bancário | Backend Engineer**
 ---
 
-<div align="leff">
+## 👤 Sobre Mim
+Sou desenvolvedor com foco em **Backend**, atualmente cursando **Gestão da Tecnologia da Informação** na FATEC. Minhas **experiências profissionais** são marcadas pela atuação em setores críticos como o **bancário, seguros e e-commerce**, onde desenvolvo soluções escaláveis e integrações complexas de dados utilizando principalmente **Java**, **4GL**, **SQL** e tecnologias correlatas.
 
-## 🧑‍💻 Sobre Mim
-
-Sou estudante de **Tecnologia da Informação**, com foco em me tornar um **desenvolvedor backend especializado em Java**.
-
-Atualmente, aprofundo meus conhecimentos em **Java** e seu ecossistema, com foco em **Spring Boot**, **JPA/Hibernate**, **JDBC**, além de ferramentas como **Maven**, **Git** e **Postman**. Tenho experiência com bancos relacionais (**MySQL**) e NoSQL (**MongoDB**), além de prática com **JavaFX** para aplicações desktop.
-
-Busco aplicar **boas práticas de desenvolvimento**, **arquitetura limpa** e **GitFlow** em meus projetos. Meu objetivo é atuar profissionalmente como desenvolvedor Java, contribuindo com soluções **robustas e escaláveis**.
-
-Sou proativo, comunicativo e motivado por desafios, sempre buscando aprender mais e evoluir.
-
-</div>
+Com sólido domínio no ecossistema **Java**, linguagem **4GL** e ferramentas de **ETL (Pentaho)**, atuo diretamente na **criação de integrações, manutenção e sustentação** de sistemas de core bancário. Meu trabalho é voltado para garantir a conformidade regulatória 
+, assegurando a estabilidade e a eficiência operacional das plataformas.
 
 ---
-
-<div align="left">
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 10px 0;">
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-%2300BCD4?style=for-the-badge&logo=api&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-UI-%230073AA?style=for-the-badge&logo=soap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitFlow](https://img.shields.io/badge/GitFlow-Branching-blueviolet?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-</div>
-
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-REST-%2300BCD4?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP-UI-%230073AA?style=for-the-badge&logo=soap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho_ETL-325B81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
 </div>
 
 ---
-
-<div align="left">
 
 ## 📌 Projetos em Destaque
 
-🔗 Projetos em que apliquei conhecimentos práticos em Java e tecnologias correlatas:
+### 🏦 Topaz | Core Bancário (Projeto Banco Volks)
+- Implementação de core bancário e fluxos de integração via **Pentaho (Kettle)**.
+- Desenvolvimento de APIs em **Topaz (4GL)** e geração de arquivos regulatórios XML.
+- Manipulação e otimização de queries complexas em **Oracle SQL** e **SQL Server**.
 
-- 💼 **Back End - Setor Financeiro FGTS**  
-Desenvolvimento de APIs RESTful com **Spring Boot**, **Java 17** e **MySQL** para processamento de transações e integração com sistemas legados. Controle de versionamento com **Git/GitFlow**.
+### 🛡️ Quality Digital | Seguros & E-commerce
+- Sustentação de aplicações em **Java (8 ,11,17 e 21)** e integrações via **WSO2** na area de seguros.
+- Desenvolvimento na plataforma **VTEX** e suporte técnico via ServiceNow.
 
-- 🧸 **Back End - Plataforma Infantil**  
-Desenvolvimento de backend educacional com **Spring Boot**, deploy via **Railway**, e banco **MySQL**. APIs organizadas com boas práticas RESTful.
+### 📱 New Level | Desenvolvimento de APIs
+- Responsavel pela parte Arquitetura e Infraestrutura de aplicações de pequena e média escala
+- Desenvolvimento de APIs RESTful com **Java** e **Spring Boot**.
+- Gerenciamento de banco de dados SQL (MYSQL,POSTGREE e ORACLE)
 
-- 🛒 **FAST SHOP (E-commerce)**  
-Atuação na sustentação do sistema de e-commerce. Correções de bugs críticos e melhorias de performance. Suporte a rotinas operacionais, garantindo estabilidade e eficiência.
+---
 
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoTamassia01&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTamassia01&layout=compact&theme=radical&hide_border=true" height="180px" />
 </div>
 
 ---
 
-<div align="left">
-
-## 📊 Estatísticas GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=MarcoTamassia01&show_icons=true&count_private=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTamassia01&layout=compact&theme=radical)
-
-</div>
-
----
+## 📬 Contato
 
 <div align="left">
-
-## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosallas/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoTamassia01)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953612386)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_marquin?igsh=MXcxbjFsZjhtMXJ1Zg==)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this_marquin)
 
 </div>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+</p>
