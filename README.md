@@ -53,8 +53,8 @@ Com sólido domínio no ecossistema **Java**, linguagem **4GL** e ferramentas de
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoTamassia01&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTamassia01&layout=compact&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoTamassia01&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoTamassia01&theme=tokyonight&hide_border=true" height="180px" />
 </div>
 
 ---
